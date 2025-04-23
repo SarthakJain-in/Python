@@ -1,0 +1,1 @@
+This is a Password management tool for local usage it include saving, modifiying, deleting and auto filing password features, for the UI purpose I used TKinter library.
